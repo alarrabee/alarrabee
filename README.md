@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @alarrabee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Alex Larrabee. I'm from Minnesota and live in Minneapolis.
+
+I'm currently enrolled in bootcamp.
+
+My background includes a B.S in Chemistry with a minor in Biochemistry. I work in the pharmaceutical and medical device industries. I help build innovative and life saving technology.
+
+Things I do when I'm not coding\
+🍅 Tending to my farm in Stardew Valley\
+🔮 Collecting enamel pins\
+🍵 Buying tea for my amateur tea collection. Not drinking, just buying\
+⌚ Following the Weevil subreddit wondering what time it is\
+🐉 Trying to keep my D&D players from asking the shop keep for the 20th time if he is absolutely sure he's not a horse 
 
 <!---
 alarrabee/alarrabee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
