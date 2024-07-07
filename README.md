@@ -7,7 +7,7 @@ My background includes a B.S in Chemistry with a minor in Biochemistry. I work i
 Things I do when I'm not coding\
 🍅 Tending to my farm in Stardew Valley\
 🔮 Collecting enamel pins\
-🍵 Buying tea for my amateur tea collection. Not drinking, just buying\
+🍵 Enjoying tea from my amateur tea collection.\
 ⌚ Following the Weevil subreddit wondering what time it is\
 🐉 Trying to keep my D&D players from asking the shop keep for the 20th time if he is absolutely sure he's not a horse 
 
