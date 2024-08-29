@@ -1,9 +1,8 @@
 
 ![cozy_computer_desk_set_in_front_of_window](https://github.com/user-attachments/assets/c4efeb64-e1ac-4426-aaa9-f21a63e54213)
-Hi, I'm Alex Larrabee. I'm from Minnesota and live in Minneapolis.
+Hi, I'm Alex Larrabee. I'm from Minnesota and live in Minneapolis. I am an experienced scientist transitioning to software development.
 
-I'm currently enrolled in bootcamp.
-
+I am a graduate of the University of Minnesota's Full-stack Coding Bootcamp.
 My background includes a B.S in Chemistry with a minor in Biochemistry. I work in the pharmaceutical and medical device industries. I help build innovative and life saving technology.
 
 Things I do when I'm not coding\
