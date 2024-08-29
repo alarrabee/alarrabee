@@ -1,3 +1,5 @@
+
+![cozy_computer_desk_set_in_front_of_window](https://github.com/user-attachments/assets/c4efeb64-e1ac-4426-aaa9-f21a63e54213)
 Hi, I'm Alex Larrabee. I'm from Minnesota and live in Minneapolis.
 
 I'm currently enrolled in bootcamp.
