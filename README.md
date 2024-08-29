@@ -15,11 +15,6 @@ Things I do when I'm not coding\
 🐉 Trying to keep my D&D players from asking the shop keep for the 20th time if he is absolutely sure he's not a horse 
 
 
-<img src='https://github.com/user-attachments/assets/83dc6bc8-b28a-48b7-b9e2-201b7fa3fa8a' width='240px' />
-<img src='https://github.com/user-attachments/assets/d96b50f1-a19f-4011-abda-7768890231b5' width='240px' />
-<img src='https://github.com/user-attachments/assets/fd7c459f-f243-490c-b9e1-d541dfdb4f0a' width='240px' />
-<img src='https://github.com/user-attachments/assets/a38b3d8c-5f51-48f0-bf25-07626ce863c6' width='240px' />
-
 
 
 <!---
